@@ -1,6 +1,6 @@
 body {
     background-color: lightgray;
-    
+  
 }
 
 
@@ -83,6 +83,15 @@ body {
     font-family: 'Chivo', sans-serif;
     font-weight: bold;
 }
+
+.subtitletwo{
+    margin-top: 10px;
+    margin-bottom: 40px;
+   
+    font-family: 'Chivo', sans-serif;
+    font-weight: bold;
+}
+
 
 .caroltwo{
     margin-bottom: 50px;
