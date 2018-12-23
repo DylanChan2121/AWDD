@@ -1,0 +1,138 @@
+body {
+    background-color: lightgray;
+    
+}
+
+
+.container {
+
+    background-color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+.one{
+  padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.two{
+  padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.btn{
+    font-size: 20px;
+}
+
+.bt{
+    margin-left: 15px;
+   color: aqua;
+}
+
+
+.nav-item{
+    padding-left: 20px;
+}
+
+.nav-link{
+    color: white;
+   
+}
+
+.nav-link:hover{
+     color: white;
+    
+}
+
+@media screen and (min-width: 601px) {
+    .topb {
+        margin-left: 105px;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .searchbar {
+        margin-left: 70px;
+    }
+}
+
+/*new nav style ending*/
+
+.title{
+    margin-top: 50px;
+    margin-bottom: 50px;
+     font-family: 'Chivo', sans-serif;
+    font-weight: bold;
+}
+
+.carol{
+    margin-bottom: 10px;
+}
+
+.spacing{
+    margin-bottom: 50px;
+    font-size: 15px;
+}
+
+.subtitle{
+    margin-top: 40px;
+    margin-bottom: 40px;
+   
+    font-family: 'Chivo', sans-serif;
+    font-weight: bold;
+}
+
+.caroltwo{
+    margin-bottom: 50px;
+}
+
+.reviewbomb{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.brand{
+    color: black;
+    padding-left: 10px;
+    
+}
+
+@media screen and (min-width: 601px) {
+    .brand{
+        margin-left:  130px;
+
+    }
+    
+    @media screen and (min-width: 601px) {
+    .bottomb{
+        margin-left:  245px;
+
+    }
+        
+        
+    /*footer*/
+        .no{
+            padding-left: 0px;
+            padding-right: 0px;
+        }
+        
+.page-footer{
+    margin-top: 20px;
+  color: white;
+    padding-bottom: 20px;
+    padding-right: 0px;
+}
+
+.extra{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 601px) {
+    .extra {
+        margin-left: 185px;
+        
+    }
+}

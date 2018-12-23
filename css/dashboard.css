@@ -1,0 +1,132 @@
+body {
+    background-color: lightgray;
+}
+
+
+.container {
+
+    background-color: white;
+    padding-left: 0px;
+    padding-right: 0px;
+
+}
+
+.one{
+  padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.two{
+  padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+.btn{
+    font-size: 20px;
+}
+
+.bt{
+    margin-left: 15px;
+   color: aqua;
+}
+
+
+.nav-item{
+    padding-left: 20px;
+}
+
+.nav-link{
+    color: white;
+   
+}
+
+.nav-link:hover{
+     color: white;
+    
+}
+
+@media screen and (min-width: 601px) {
+    .topb {
+        margin-left: 105px;
+    }
+}
+
+@media screen and (min-width: 601px) {
+    .searchbar {
+        margin-left: 70px;
+    }
+}
+/*header ending*/
+
+.stat{
+    font-family: 'Archivo', sans-serif;
+    font-style: italic;
+    font-weight:500;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    margin-left: 20px;
+    
+}
+
+.chartt1{
+      font-family: 'Archivo', sans-serif;
+    font-style: italic;
+    font-weight:500;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
+
+.columnone{
+      font-family: 'Archivo', sans-serif;
+    font-style: italic;
+    font-weight:500;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+       border-bottom: 3px solid #000000;
+}
+
+.chartt2{
+      font-family: 'Archivo', sans-serif;
+    font-style: italic;
+    font-weight:500;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    
+}
+
+.testone{
+       border-bottom: 5px solid #000000;
+    margin-bottom: 70px;
+}
+
+.test{
+       border-bottom: 3px solid #000000;
+    margin-bottom: 15px;
+   
+}
+
+.logofooter{
+    margin-top: 20px;
+  color: white;
+    padding-bottom: 20px;
+}
+
+.extra{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+@media screen and (min-width: 601px) {
+    .extra {
+        margin-left: 185px;
+        
+    }
+}
